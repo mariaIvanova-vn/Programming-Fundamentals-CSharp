@@ -17,3 +17,8 @@ The course develops algorithmic thinking and builds problem-solving skills. It i
 + Build simple web pages with HTML and CSS
 + Web Development Basics
 
+
+[**Mid Exam**] ([https://github.com/mariaIvanova-vn/Programming-Fundamentals-CSharp/tree/main/Programming%20Fundamentals%20Mid%20Exam])
+
+[**Final Exam**] ([https://github.com/mariaIvanova-vn/Programming-Fundamentals-CSharp/tree/main/Programming%20Fundamentals%20Final%20Exam])
+
