@@ -25,3 +25,7 @@ The course develops algorithmic thinking and builds problem-solving skills. It i
 [**P03.Arrays - Lab**] ([https://github.com/mariaIvanova-vn/Programming-Fundamentals-CSharp/tree/main/P03.Arrays%20-%20Lab])
 
 [**P03.Arrays - Exercise**] ([https://github.com/mariaIvanova-vn/Programming-Fundamentals-CSharp/tree/main/P03.Arrays%20-%20Exercise])
+
+[**P05.Lists - Lab**] ([https://github.com/mariaIvanova-vn/Programming-Fundamentals-CSharp/tree/main/P05.Lists%20-%20Lab])
+
+[**P05.Lists - Exercise**] ([https://github.com/mariaIvanova-vn/Programming-Fundamentals-CSharp/tree/main/P05.Lists%20-%20Exercise])
