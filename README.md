@@ -29,3 +29,7 @@ The course develops algorithmic thinking and builds problem-solving skills. It i
 [**P05.Lists - Lab**] ([https://github.com/mariaIvanova-vn/Programming-Fundamentals-CSharp/tree/main/P05.Lists%20-%20Lab])
 
 [**P05.Lists - Exercise**] ([https://github.com/mariaIvanova-vn/Programming-Fundamentals-CSharp/tree/main/P05.Lists%20-%20Exercise])
+
+[**P09.Regular Expressions - Lab**] ([https://github.com/mariaIvanova-vn/Programming-Fundamentals-CSharp/tree/main/P09.Regular%20Expressions%20-%20Lab])
+
+[**P09.Regular Expressions - Exercise**] ([https://github.com/mariaIvanova-vn/Programming-Fundamentals-CSharp/tree/main/P09.Regular%20Expressions%20-%20Exercise])
