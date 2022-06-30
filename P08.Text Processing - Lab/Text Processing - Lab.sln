@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Reverse Strings", "01. Reverse Strings\01. Reverse Strings.csproj", "{D859C074-8E48-4DAA-91FA-11E995939C32}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Repeat Strings", "02. Repeat Strings\02. Repeat Strings.csproj", "{693CA2C6-3F30-4A06-B370-4B52C7CF30E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Substring", "03. Substring\03. Substring.csproj", "{B29C56A7-D252-4D11-8B49-177B4AFEC145}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Text Filter", "04. Text Filter\04. Text Filter.csproj", "{FD98A456-FD06-46E7-9B2D-1085EC20CD61}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Digits, Letters and Other", "05. Digits, Letters and Other\05. Digits, Letters and Other.csproj", "{4209F6BF-A306-4140-8348-5248462CFBA1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 1 - The Imitation Game", "Problem 1 - The Imitation Game\Problem 1 - The Imitation Game.csproj", "{8D616290-E4A4-49D3-AC66-7AA69B040418}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D859C074-8E48-4DAA-91FA-11E995939C32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D859C074-8E48-4DAA-91FA-11E995939C32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D859C074-8E48-4DAA-91FA-11E995939C32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D859C074-8E48-4DAA-91FA-11E995939C32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{693CA2C6-3F30-4A06-B370-4B52C7CF30E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{693CA2C6-3F30-4A06-B370-4B52C7CF30E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{693CA2C6-3F30-4A06-B370-4B52C7CF30E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{693CA2C6-3F30-4A06-B370-4B52C7CF30E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B29C56A7-D252-4D11-8B49-177B4AFEC145}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B29C56A7-D252-4D11-8B49-177B4AFEC145}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B29C56A7-D252-4D11-8B49-177B4AFEC145}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B29C56A7-D252-4D11-8B49-177B4AFEC145}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD98A456-FD06-46E7-9B2D-1085EC20CD61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD98A456-FD06-46E7-9B2D-1085EC20CD61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD98A456-FD06-46E7-9B2D-1085EC20CD61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD98A456-FD06-46E7-9B2D-1085EC20CD61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4209F6BF-A306-4140-8348-5248462CFBA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4209F6BF-A306-4140-8348-5248462CFBA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4209F6BF-A306-4140-8348-5248462CFBA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4209F6BF-A306-4140-8348-5248462CFBA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D616290-E4A4-49D3-AC66-7AA69B040418}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D616290-E4A4-49D3-AC66-7AA69B040418}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D616290-E4A4-49D3-AC66-7AA69B040418}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D616290-E4A4-49D3-AC66-7AA69B040418}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B53C8750-903E-43BA-A354-6A87E67BD649}
+	EndGlobalSection
+EndGlobal
